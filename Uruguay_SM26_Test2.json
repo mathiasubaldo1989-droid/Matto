@@ -1,0 +1,56 @@
+{
+    "PlayerData": [
+        {
+            "ID": 1001,
+            "Forename": "Jugador",
+            "Surname": "Nacional",
+            "ClubID": 1,
+            "ImageURL": ""
+        },
+        {
+            "ID": 1002,
+            "Forename": "Jugador",
+            "Surname": "Peñarol",
+            "ClubID": 2,
+            "ImageURL": ""
+        }
+    ],
+    "ClubData": [
+        {
+            "ID": 1,
+            "Name": "Nacional",
+            "ShortName": "NAC",
+            "ImageURL": ""
+        },
+        {
+            "ID": 2,
+            "Name": "Peñarol",
+            "ShortName": "PEN",
+            "ImageURL": ""
+        }
+    ],
+    "LeagueData": [
+        {
+            "ID": 28,
+            "Name": "Liga AUF Uruguaya",
+            "ImageURL": ""
+        }
+    ],
+    "CupData": [
+        {
+            "ID": 2,
+            "Name": "Copa AUF Uruguay",
+            "ImageURL": ""
+        }
+    ],
+    "StadiumData": [
+        {
+            "ID": 1,
+            "Name": "Gran Parque Central"
+        },
+        {
+            "ID": 2,
+            "Name": "Campeón del Siglo"
+        }
+    ]
+}
